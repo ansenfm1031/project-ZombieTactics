@@ -16,8 +16,8 @@
 ### 육각 타일 기반 A* 알고리즘 구현
 - 육각 타일 인덱스 설정
   <p align="left">
-    <img width="400" alt="image" src="https://github.com/user-attachments/assets/29cd86a3-ffca-41ca-a0f1-5b48e64c4b21" />
-    <img width="400" alt="image" src="https://github.com/user-attachments/assets/65f3fe26-2637-4c03-93ab-c60ccb115a09" />
+    <img width="360" alt="image" src="https://github.com/user-attachments/assets/29cd86a3-ffca-41ca-a0f1-5b48e64c4b21" />
+    <img width="360" alt="image" src="https://github.com/user-attachments/assets/65f3fe26-2637-4c03-93ab-c60ccb115a09" />
   </p>  
 - 평면 조건식  
   <img width="121" height="23" alt="image" src="https://github.com/user-attachments/assets/933613b9-ad80-424b-a9a8-e9536634a6cf" />
@@ -25,6 +25,6 @@
   <img width="401" height="52" alt="image" src="https://github.com/user-attachments/assets/51b4aaeb-6b5a-4bf0-9d64-fb855a7092d8" />
 - 최적 경로 계산 (A*)
   <p align="left">
-    <img width="400" alt="image" src="https://github.com/user-attachments/assets/a5cf1a07-b87b-4232-aed8-c730d7a15092" />
-    <img width="400" alt="image" src="https://github.com/user-attachments/assets/2237a543-5b1f-4b94-a25e-9e67130604d7" />
+    <img width="360" alt="image" src="https://github.com/user-attachments/assets/a5cf1a07-b87b-4232-aed8-c730d7a15092" />
+    <img width="360" alt="image" src="https://github.com/user-attachments/assets/2237a543-5b1f-4b94-a25e-9e67130604d7" />
   </p>
