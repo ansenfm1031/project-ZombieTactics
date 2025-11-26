@@ -14,6 +14,7 @@
 ## 핵심 기술
 
 ### 육각 타일 기반 A* 알고리즘 구현
+육각 타일에서의 길 찾기를 위한 인덱스를 설정하고 해당하는 조건식을 활용해 최적 경로 계산
 - 육각 타일 인덱스 설정
   <p align="left">
     <img width="360" alt="image" src="https://github.com/user-attachments/assets/29cd86a3-ffca-41ca-a0f1-5b48e64c4b21" />
