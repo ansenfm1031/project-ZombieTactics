@@ -4,8 +4,10 @@
 [![ZombieTactics Demo](https://img.shields.io/badge/YouTube-Video-red?logo=youtube)](https://youtu.be/UcNRsOX1SvY)  
 <img width="240" alt="image" src="https://github.com/user-attachments/assets/724dc8c1-1e37-4b74-a37f-83e47a86626a" />
 <img width="240" alt="image" src="https://github.com/user-attachments/assets/b245c3e9-3f0b-4933-9501-76a8d758ed5a" />
-<img width="240" alt="image" src="https://github.com/user-attachments/assets/172f6db0-dd95-492a-bdd0-5d8f0da8ddc1" />  
+<img width="240" alt="image" src="https://github.com/user-attachments/assets/172f6db0-dd95-492a-bdd0-5d8f0da8ddc1" />
+
 육각 타일 기반의 턴제 디펜스 게임
+
 - 육각 타일 기반 A* 알고리즘 구현
 - 턴제 시스템 구현
 - 성장 가능한 스킬, 인벤토리 및 상점 구현
